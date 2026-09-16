@@ -6,7 +6,7 @@ The website presents the agency's services, case studies, working process, team 
 
 ## Live Demo
 
-View the live [DEMO](https://anastasiia-rem.github.io/Museum/)
+View the live [DEMO](https://anastasiia-rem.github.io/positivus-landing/)
 
 ## Design
 
